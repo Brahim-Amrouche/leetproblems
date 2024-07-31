@@ -1,4 +1,4 @@
-pub mod Soluion {
+pub mod solution {
 
     pub fn find_min(nums: &[i32]) -> i32 {
         let mut left  = 0;
